@@ -3,10 +3,7 @@
 <p>I'm currently a <strong>Software Engineer</strong> passionate about building scalable applications and solving complex problems. I am working on some side projects, exploring new technologies, and constantly improving my coding skills.</p>
 
 <p>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" alt="Website Badge"></a> 
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a> 
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter" alt="Twitter Badge"></a>
-</p>
+  
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
 
