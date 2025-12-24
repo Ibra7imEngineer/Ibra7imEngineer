@@ -9,7 +9,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <strong>[New Order]</strong>.</li>
+  <li>🔭 I’m currently working on <strong>[My Order]</strong>.</li>
   <li>🧐 Learning about <strong>Cloud Computing</strong>, <strong>System Design</strong>, and <strong>Backend Architectures</strong>.</li>
   <li>👨‍💻 Most of my projects are available on my <a href="https://github.com/Ibra7imEngineer">Github</a>.</li>
   <li>💬 Ping me about <strong>React, Node.js, and Software Engineering</strong>.</li>
