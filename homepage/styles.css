@@ -1,0 +1,30 @@
+/* محدد 1: وسم (body) */
+body {
+    background-color: #f8f9fa; /* خاصية 1: لون الخلفية */
+    font-family: Arial, sans-serif;
+    padding-bottom: 70px; /* لضمان وجود مسافة سفلية */
+}
+
+/* محدد 2: فئة (.jumbotron) */
+.jumbotron {
+    background-color: #e9ecef;
+    border-radius: 10px;
+    padding: 3rem 2rem;
+}
+
+/* محدد 3: معرف (#main-title) */
+#main-title {
+    color: #ffd700; /* خاصية 2: لون النص (ذهبي) */
+    text-shadow: 2px 2px 4px #000000; /* خاصية 3: ظل النص */
+}
+
+/* محدد 4: وسم مع وسم (nav a) (لاختيار روابط داخل قائمة التنقل) */
+nav a {
+    font-weight: bold; /* خاصية 4: وزن الخط */
+    transition: color 0.3s; /* خاصية 5: انتقال سلس للون */
+}
+
+/* محدد 5: وسم مع Pseudo-class (button:hover) (محدد التفاعل) */
+button:hover {
+    opacity: 0.8;
+}

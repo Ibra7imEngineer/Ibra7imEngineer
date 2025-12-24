@@ -1,0 +1,31 @@
+علامات HTML المستخدمة (10 علامات فريدة):
+1. <header>
+2. <nav>
+3. <ul>
+4. <li>
+5. <a>
+6. <section>
+7. <p>
+8. <img>
+9. <h3>
+10. <footer>
+11. <form>
+12. <input>
+13. <label>
+14. <textarea>
+15. <button>
+
+خصائص CSS المستخدمة (5 خصائص فريدة):
+1. background-color
+2. font-family
+3. color
+4. text-shadow
+5. transition
+6. font-weight
+7. padding-bottom
+
+وصف استخدام JavaScript:
+تم استخدام JavaScript لإضافة تفاعل بسيط من خلال عرض رسالة تنبيه (alert) عند نقر المستخدم على زر "اضغط لرسالة ترحيب!" في الصفحة الرئيسية.
+
+وصف استخدام Bootstrap:
+تم استخدام Bootstrap بشكل أساسي لتصميم استجابي (Responsive Design)، نظام الشبكة (Grid System)، وشريط التنقل (Navbar)، بالإضافة إلى مكونات التصميم الجاهزة مثل البطاقات (Cards) وتصميم النموذج (Form) لتحسين مظهر الموقع على الأجهزة المختلفة.
