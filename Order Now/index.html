@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Order | منيو المطعم</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>New Order ✨</h1>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="ابحث عن وجبتك يا فندم...">
+            </div>
+            <div class="cart-icon" onclick="toggleCart(true)">
+                🛒 <span id="cartCount">0</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="menuGrid" class="menu-grid">
+            </div>
+    </main>
+
+    <div id="overlay" onclick="toggleCart(false)"></div>
+    <div id="cartSidebar" class="cart-sidebar">
+        <div class="cart-header">
+            <h2>طلباتك يا فندم</h2>
+            <button onclick="toggleCart(false)">إغلاق</button>
+        </div>
+        <div id="cartItemsList" class="cart-items"></div>
+        
+        <div class="order-form">
+            <input type="text" id="custName" placeholder="اسمك الكريم">
+            <input type="tel" id="custPhone" placeholder="رقم موبايلك">
+            <input type="text" id="custAddress" placeholder="عنوان التوصيل بالتفصيل">
+        </div>
+
+        <div id="totalDisplay" class="total-section"></div>
+        <button class="send-btn" onclick="sendOrderWhatsApp()">تأكيد وإرسال الأوردر ✅</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
