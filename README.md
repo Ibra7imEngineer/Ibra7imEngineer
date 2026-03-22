@@ -33,11 +33,7 @@
 ### 🛠️ Data Analytics Stack
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="60" height="60" alt="excel" />
-  
-  &nbsp; <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60" height="60" alt="powerbi" />
-  
-  &nbsp; 
-  
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60" alt="sql" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
