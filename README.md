@@ -30,9 +30,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
+### 🛠️ Data Analytics Stack
 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="50" height="50" alt="excel" />
-
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" height="50" alt="powerbi" />
-
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="sql" />
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="60" height="60" alt="excel" />
+  
+  &nbsp; <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60" height="60" alt="powerbi" />
+  
+  &nbsp; 
+  
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60" alt="sql" />
+</p>
